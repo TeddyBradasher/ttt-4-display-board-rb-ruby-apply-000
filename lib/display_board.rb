@@ -2,5 +2,5 @@
 # out the current state.
 
 def display_board(board)
-  (rows[0])=("   |   |   ")
+ puts (rows[0])=("   |   |   ")
 end
